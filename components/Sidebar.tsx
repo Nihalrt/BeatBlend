@@ -65,7 +65,7 @@ const Sidebar: React.FC<SidebarProps> = ({children, songs}) => {
                         rounded-lg
                         px-5
                         py-4
-                        bg-violet-950
+                        bg-blue-900
                        ">
                         {routes.map((item) => (
                         <SidebarItem
