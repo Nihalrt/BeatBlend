@@ -8,7 +8,7 @@ export default async function Home() {
   const songs = await getSongs();
   return (
     <div className="
-    bg-black
+    bg-blue-900
     rounded-lg
     h-full
     w-full
