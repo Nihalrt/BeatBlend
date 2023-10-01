@@ -36,7 +36,7 @@ export default async function Home() {
          mt-4
          "
         >
-          <ListItem image="/images/liked.png" name={"Liked Songs"} href={"liked"}  />
+          <ListItem image="/liked.png" name={"Liked Songs"} href={"liked"}  />
 
 
         </div>
