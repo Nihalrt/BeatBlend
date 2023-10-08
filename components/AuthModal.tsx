@@ -49,8 +49,8 @@ const AuthModal = () => {
           variables: {
             default: {
               colors: {
-                brand: 'red'
-                brandAccent: 'darkred'
+                brand: '#404040',
+                brandAccent: '#22c55e'
               }
             }
           }
