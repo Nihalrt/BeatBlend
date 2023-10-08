@@ -23,7 +23,7 @@ export default async function Home() {
         font-semibold
         
         ">
-          Welcome
+          Welcome To BeatBlend
         </h1>
         <div
          className="
