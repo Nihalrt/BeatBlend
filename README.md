@@ -1,6 +1,6 @@
 # Beat Blend
 
-Beat Blend is a music streaming application that allows users to discover, listen to, and manage their favorite music. This project leverages React, Next.js, and Tailwind CSS for a responsive and modern user interface, while utilizing Supabase for backend functionalities.
+BeatBlend is a music streaming application that allows users to discover, listen to, and manage their favorite music. This project leverages React, Next.js, and Tailwind CSS for a responsive and modern user interface, while utilizing Supabase for backend functionalities.
 
 ## Features
 
