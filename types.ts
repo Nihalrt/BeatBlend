@@ -1,7 +1,7 @@
 import Stripe from 'stripe';
 
 export interface Song {
-  id: string;
+  id: number;
   user_id: string;
   author: string;
   title: string;
